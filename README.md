@@ -13,7 +13,7 @@ For using cv2.dnn_superres, and CUDA libraries, you will have to biuld OpenCV fr
  
 1) If you are using Google Colab (can be extended to Linux): https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f
     
-2) If you want t0 install in Windows: https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
+2) If you want to install in Windows: https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
     
     
 Enjoy, and have a Wonderful Day 😁
