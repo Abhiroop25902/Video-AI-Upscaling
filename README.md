@@ -5,7 +5,7 @@ Most of the working code has been taken from the following site: https://towards
 
 I have just added the functionality of handling video
 
-The EDSR model can be found by this repo: https://github.com/Saafke/EDSR_Tensorflow/tree/master/models
+The EDSR models can be found in this repo: https://github.com/Saafke/EDSR_Tensorflow/tree/master/models
 
 To know more about video handling using OpenCV, check this: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
 
