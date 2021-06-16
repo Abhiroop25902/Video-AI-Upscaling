@@ -10,8 +10,8 @@ I have also implemented this all in Google Colab where you have to just provide 
 If you want to setup this in local you need the following things:
 -   The EDSR models: https://github.com/Saafke/EDSR_Tensorflow/tree/master/models
 -   OpenCV CUDA Support
-    -   If you are using Google Colab (can be extended to Linux, with minor modifications): https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f
-    - If you want to install in Windows: https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
+    -   If you want to install in Linux: https://gist.github.com/raulqf/f42c718a658cddc16f9df07ecc627be7
+    -   If you want to install in Windows: https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
 
 To know more about video handling using OpenCV, check this: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
     
