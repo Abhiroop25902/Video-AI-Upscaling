@@ -1,4 +1,4 @@
-# AI-Upscaling
+# AI-UpScaling
 This uses EDSR to upscale a video by three times
 
 Most of the working code has been taken from the following site: https://towardsdatascience.com/deep-learning-based-super-resolution-with-opencv-4fd736678066
