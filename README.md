@@ -17,4 +17,5 @@ To know more about video handling using OpenCV, check this: https://opencv-pytho
     
 Enjoy, and have a Wonderful Day 😁
 
-Additional Info: As of now, the precompiled source of opencv-gpu has been deleted from my drive, follow [this](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f) to make your own precompiled opencv-gpu
+## Additional Info
+As of Feb 2022, the precompiled source of opencv-gpu has been deleted from my drive, follow [this](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f) to make your own precompiled opencv-gpu
