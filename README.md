@@ -16,3 +16,5 @@ If you want to setup this in local you need the following things:
 To know more about video handling using OpenCV, check this: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
     
 Enjoy, and have a Wonderful Day 😁
+
+Additional Info: As of now, the precompiled source of opencv-gpu has been deleted from my drive, follow [this](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f) to make your own precompiled opencv-gpu
